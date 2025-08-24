@@ -1,0 +1,1 @@
+Title:Attendance Maintaining using linked list Features:Adding,Deleting,Searching,Printing,Reversing,Cloning Attendance record How to Run:gcc src/singly_linked_list.c Screenshots:output as jpg Contributes:@mahesh03-sys
